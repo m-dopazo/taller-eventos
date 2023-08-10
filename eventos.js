@@ -1,5 +1,5 @@
 elemento =  document.getElementById("div1");
-
-elemento.addEventListener('click', function(){
-    alert("Hola! soy el div");
-})
+function saludar(){
+    alert("Hola! soy el div")
+}
+elemento.addEventListener('click', saludar,true)
