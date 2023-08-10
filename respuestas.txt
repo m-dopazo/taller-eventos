@@ -1,0 +1,4 @@
+1. Un evento es un suceso que ocurre y se puede utilizar como disparador para , por ejemplo, ejecutar codigo js.
+2. Se puede realizar tanto en el HTML como en JS. En html podemos utilizar el nombre del evento como atributo de un elemento, y atribuirle código a ejecutar al ocurrir tal evento
+3. Creo que es mas correcto manejar los eventos en JS; el uso del DOM permite manipular más facilmente los objetos de la página, logrando mayor prolijidad. Además, en JS hay mas eventos manipulables.
+4. OnMouseOver / OnMouseOut / OnLoad. LOs primero dos indican eventos cuando el usuario pasa el cursos por encima del elemento, tanto cuando "entra" como cuando "sale" de este. Onload indica al evento cuando se carga la pagina.
