@@ -1,0 +1,1 @@
+document.getElementById("div1").addEventListener('click',alert("hola! soy el div"))
