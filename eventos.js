@@ -1,3 +1,5 @@
-document.getElementById("div1").addEventListener('click', function(){
-    window.alert("Hola! soy el div")
+elemento =  await document.getElementById("div1").
+
+elemento.addEventListener('click', function(){
+    alert("Hola! soy el div");
 })
